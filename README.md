@@ -1,5 +1,4 @@
-# claude
-Este será um projeto que eu mesmo estou fazendo para o claude free e o claude code
+# Claude Code 
 Desenvolva o JARVIS, meu assistente pessoal de inteligência artificial, como uma aplicação WEB multiplataforma (PWA).
 
 IMPORTANTE: NÃO QUERO APK, NÃO QUERO EXIGIR INSTALAÇÃO DE APLICATIVO E NÃO QUERO DEPENDER DA PLAY STORE.
@@ -64,4 +63,4 @@ Quero o projeto completo, com código funcional, estrutura de arquivos, instruç
 
 Entregue um endereço HTTPS para acessar o JARVIS pelo celular e computador quando o projeto estiver hospedado.
 
-Não crie APK. Quero tudo funcionando através do navegador.
+Não crie APK. Quero tudo funcionando através do navegador.=claude code 
